@@ -16,7 +16,7 @@ This C# program is designed to greet the user based on the current date and time
 ### Clone the repository to your local machine.
 ### Open the project in your preferred C# IDE (e.g., Visual Studio).
 ### Compile and run the program.
-4- Follow the on-screen instructions to interact with the program.
+### Follow the on-screen instructions to interact with the program.
 # Requirements
 ### .NET Core SDK (compatible with C#).
 ### C# IDE (e.g., Visual Studio, Visual Studio Code with C# extension).
