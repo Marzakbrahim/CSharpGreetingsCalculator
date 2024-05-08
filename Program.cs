@@ -89,6 +89,7 @@ namespace calculatrice
                     menu();
                     break;
                 case "*":
+                    
                     resultat = calculatrice.Multiplication(a, b);
                     Console.WriteLine("le résultat est : " + resultat);
                     menu();
@@ -96,9 +97,18 @@ namespace calculatrice
                 case "/":
                     try
                     {
-                        resultat = calculatrice.Division(a, b);
-                        Console.WriteLine("le résultat est : " + resultat);
-                        menu();
+                        if (b == 0) 
+                        {
+                            Console.WriteLine("Attention, on ne peut pas diviser sur 0");
+                            menu();
+                        }
+                        else
+                        {
+                            resultat = calculatrice.Division(a, b);
+                            Console.WriteLine("le résultat est : " + resultat);
+                            menu();
+                        }
+                        
                     }
                     catch (Exception e)
                     {
