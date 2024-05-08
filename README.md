@@ -20,38 +20,38 @@ Type "R" to perform another calculation or "Q" to quit.<br>
 C# IDE (e.g., Visual Studio, Visual Studio Code with C# extension). <br>
 
 # Example 
-Entrer le 1er nombre :
-ZE
-Vous n'avez pas entré un entier ! veuillez saisir un nombre entier svp
-Entrer le 1er nombre :
-12
-Entrer le 2er nombre :
-DRG
-Vous n'avez pas entré un entier ! veuillez saisir un nombre entier svp
-Entrer le 2er nombre :
-1234,5
-Entrez une opération (+ ou - ou * ou /) ou 'Q' pour quitter
-+
-le résultat est : 1246,5
-Tapez R pour refaire une opération ou Q pour quitter l'application.
-H
-Votre saisie est invalide !
-Tapez R pour refaire une opération ou Q pour quitter l'application.
-R
-Entrer le 1er nombre :
-1
-Entrer le 2er nombre :
-2
-Entrez une opération (+ ou - ou * ou /) ou 'Q' pour quitter
-/
-le résultat est : 0,5
-Tapez R pour refaire une opération ou Q pour quitter l'application.
-Q
-Vous avez Quitter l'application au revoir !
-# NOTIFICATION 
-This project can be easily extended to include additional functionalities such as:
-Operation history.
-Calculations with more complex expressions.
-Unit conversion.
-Graphical user interface.
+Entrer le 1er nombre :<br>
+ZE<br>
+Vous n'avez pas entré un entier ! veuillez saisir un nombre entier svp<br>
+Entrer le 1er nombre :<br>
+12<br>
+Entrer le 2er nombre :<br>
+DRG<br>
+Vous n'avez pas entré un entier ! veuillez saisir un nombre entier svp<br>
+Entrer le 2er nombre :<br>
+1234,5<br>
+Entrez une opération (+ ou - ou * ou /) ou 'Q' pour quitter<br>
++<br>
+le résultat est : 1246,5<br>
+Tapez R pour refaire une opération ou Q pour quitter l'application.<br>
+H<br>
+Votre saisie est invalide !<br>
+Tapez R pour refaire une opération ou Q pour quitter l'application.<br>
+R<br>
+Entrer le 1er nombre :<br>
+1<br>
+Entrer le 2er nombre :<br>
+2<br>
+Entrez une opération (+ ou - ou * ou /) ou 'Q' pour quitter<br>
+/<br>
+le résultat est : 0,5<br>
+Tapez R pour refaire une opération ou Q pour quitter l'application.<br>
+Q<br>
+Vous avez Quitter l'application au revoir !<br>
+# NOTIFICATION <br>
+This project can be easily extended to include additional functionalities such as:<br>
+Operation history.<br>
+Calculations with more complex expressions.<br>
+Unit conversion.<br>
+Graphical user interface.<br>
 
